@@ -25,7 +25,7 @@ A preprint is available here https://www.biorxiv.org/content/10.1101/2020.02.08.
 9. [Bibliography](#bibliography)
 10. [License](#license)
 
-## Introduction
+## Introduction 
 
 MUFFIN aims at being a reproducible pipeline for metagenome assembly
 of crossed illumina and nanopore reads.
