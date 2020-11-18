@@ -65,11 +65,11 @@ MUFFIN uses the following software
 ### The Workflow
 
 
-![MUFFIN FLOWCHART FIGURE](.figure/Muffin_Workflow_simple.png)
+![MUFFIN FLOWCHART FIGURE](figures/Muffin_Workflow_simple.png)
 
 ### The parser output
 
-![PARSER OUTPUT FIGURE](.figure/PANKEGG_simple.png)
+![PARSER OUTPUT FIGURE](figures/PANKEGG_simple.png)
 
 
 
